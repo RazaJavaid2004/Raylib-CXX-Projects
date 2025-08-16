@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build raylib project",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "test.cpp",
+        "-o",
+        "test.exe",
+        "-I", "C:/msys64/ucrt64/include",
+        "-L", "C:/msys64/ucrt64/lib",
+        "-lraylib",
+        "-lglfw3",
+        "-lopengl32",
+        "-lgdi32",
+        "-lwinmm"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
