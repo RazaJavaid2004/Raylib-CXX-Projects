@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build with g++",
+      "type": "shell",
+      "command": "${workspaceFolder}\\build.bat",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "detail": "Compiles all .cpp files in src/ using g++ and outputs to build/"
+    }
+  ]
+}

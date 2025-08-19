@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Raylib Projects/Dino Collision/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DinoCollision.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\DinoCollision.dir\\src\\main.cpp.obj -c \"D:\\Raylib Projects\\Dino Collision\\src\\main.cpp\"",
+  "file": "D:/Raylib Projects/Dino Collision/src/main.cpp",
+  "output": "CMakeFiles/DinoCollision.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Raylib Projects/Dino Collision/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DinoCollision.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\DinoCollision.dir\\src\\dino.cpp.obj -c \"D:\\Raylib Projects\\Dino Collision\\src\\dino.cpp\"",
+  "file": "D:/Raylib Projects/Dino Collision/src/dino.cpp",
+  "output": "CMakeFiles/DinoCollision.dir/src/dino.cpp.obj"
+}
+]
