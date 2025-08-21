@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Bouncing Ball/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BouncingBall.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\BouncingBall.dir\\src\\main.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Bouncing Ball\\src\\main.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Bouncing Ball/src/main.cpp",
+  "output": "CMakeFiles/BouncingBall.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Bouncing Ball/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BouncingBall.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\BouncingBall.dir\\src\\ball.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Bouncing Ball\\src\\ball.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Bouncing Ball/src/ball.cpp",
+  "output": "CMakeFiles/BouncingBall.dir/src/ball.cpp.obj"
+}
+]
