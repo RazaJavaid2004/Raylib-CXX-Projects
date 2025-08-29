@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Raylib Buttons/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/RaylibButtons.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\RaylibButtons.dir\\src\\main.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Raylib Buttons\\src\\main.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Raylib Buttons/src/main.cpp",
+  "output": "CMakeFiles/RaylibButtons.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Raylib Buttons/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/RaylibButtons.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\RaylibButtons.dir\\src\\button.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Raylib Buttons\\src\\button.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Raylib Buttons/src/button.cpp",
+  "output": "CMakeFiles/RaylibButtons.dir/src/button.cpp.obj"
+}
+]

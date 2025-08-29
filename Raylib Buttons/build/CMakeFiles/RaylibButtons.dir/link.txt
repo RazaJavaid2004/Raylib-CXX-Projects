@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\RaylibButtons.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\RaylibButtons.dir/objects.a @CMakeFiles\RaylibButtons.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\RaylibButtons.dir/objects.a -Wl,--no-whole-archive -o RaylibButtons.exe -Wl,--out-implib,libRaylibButtons.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RaylibButtons.dir\linkLibs.rsp
