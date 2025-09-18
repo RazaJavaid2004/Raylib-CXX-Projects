@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PongGame.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\PongGame.dir\\src\\main.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Pong Game\\src\\main.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/src/main.cpp",
+  "output": "CMakeFiles/PongGame.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PongGame.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\PongGame.dir\\src\\ball.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Pong Game\\src\\ball.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/src/ball.cpp",
+  "output": "CMakeFiles/PongGame.dir/src/ball.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PongGame.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\PongGame.dir\\src\\line.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Pong Game\\src\\line.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/src/line.cpp",
+  "output": "CMakeFiles/PongGame.dir/src/line.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PongGame.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\PongGame.dir\\src\\paddle.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Pong Game\\src\\paddle.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/src/paddle.cpp",
+  "output": "CMakeFiles/PongGame.dir/src/paddle.cpp.obj"
+},
+{
+  "directory": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PongGame.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\PongGame.dir\\src\\score.cpp.obj -c \"D:\\Courses\\My Codes\\Raylib CPP Projects\\Pong Game\\src\\score.cpp\"",
+  "file": "D:/Courses/My Codes/Raylib CPP Projects/Pong Game/src/score.cpp",
+  "output": "CMakeFiles/PongGame.dir/src/score.cpp.obj"
+}
+]
